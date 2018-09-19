@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TravelPartner</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="default_info_title" />
+    <string name="default_info_snippet" />
+    <string name="option_get_place" />
+    <string name="kakao_app_key">1872505b0ff6ef632c2777e908726f19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
